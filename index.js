@@ -60,7 +60,7 @@ function makeSound(blabla){
         audio6.play();
       break;
     case "b":
-        var audioB = new Audio("berreyalanci.m4a");
+        var audioB = new Audio("guzelBerre.m4a");
         audioB.play();
       break;
     default:
